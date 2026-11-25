@@ -4,7 +4,7 @@ to /output/entry.txt."""
 
 import os
 
-ENTRY = "We scheduled an hour to discuss the email, then spent the hour deciding when to discuss the email."
+ENTRY = "We scheduled an hour to discuss the email, then spent it booking another meeting to discuss the email."
 
 
 def main() -> None:
